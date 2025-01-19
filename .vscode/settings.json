@@ -1,0 +1,9 @@
+{
+    "commentTranslate.source": "intellsmi.comment-translate-ali.cloud",
+    "java.project.referencedLibraries": ["lib/**/*.jar", "d:\\vscode\\mysqlwaibukuwenjian\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"],
+    "java.project.explorer.showNonJavaResources": true,
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
